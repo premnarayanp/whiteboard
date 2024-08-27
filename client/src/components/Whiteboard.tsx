@@ -1,5 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { fabric } from 'fabric';
+
 import io from 'socket.io-client';
 import './Whiteboard.css';
 
